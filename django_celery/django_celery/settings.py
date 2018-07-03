@@ -118,6 +118,6 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.11/howto/static-files/
 
 STATIC_URL = '/static/'
-MEDIA_ROOT = '/home/pedro/pycharmproject/django_celery/medias'
+MEDIA_ROOT = '/home/pedro/pycharmproject/repos_personal/pedro2013/django_celery/medias'
 
 MEDIA_URL = '/media/'
